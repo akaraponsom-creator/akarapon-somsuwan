@@ -1,6 +1,6 @@
 <div align="center">
   <h1>สวัสดีครับ ผมชื่อ อัครพล สมสุวรรณ 👋</h1>
-  <p><strong>[ตำแหน่งหรือสายงาน เช่น Full-Stack Developer | UI/UX Enthusiast | Data Analyst]</strong></p>
+
   
   <p>
     <a href="[ลิงก์ LinkedIn ของคุณ]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
