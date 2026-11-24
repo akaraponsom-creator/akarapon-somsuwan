@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>AKARAPON SOMSUWAN </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:545966,60:8678eb,100:56c8e0&height=230&section=header&text=AKARAPON%20SOMSUWAN&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=⚡%20YOUR%20ROLE%20|%20DEVELOPER%20⚡&descSize=18&descAlignY=63" width="100%" />
+</div>
 
   
   <p>
