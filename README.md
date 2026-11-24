@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>สวัสดีครับ/ค่ะ ผม/ฉันชื่อ [ชื่อของคุณ] 👋</h1>
+  <h1>สวัสดีครับ ผมชื่อ อัครพล สมสุวรรณ 👋</h1>
   <p><strong>[ตำแหน่งหรือสายงาน เช่น Full-Stack Developer | UI/UX Enthusiast | Data Analyst]</strong></p>
   
   <p>
