@@ -3,9 +3,7 @@
 
   
   <p>
-    <a href="[ลิงก์ LinkedIn ของคุณ]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:[อีเมลของคุณ]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="[ลิงก์ Portfolio หรือเว็บไซต์ของคุณ]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:akarapon.som@ku.th"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
 
@@ -13,7 +11,7 @@
 
 ### 👨‍💻 เกี่ยวกับฉัน (About Me)
 
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **[เทคโนโลยีหรือภาษาที่กำลังศึกษา เช่น Next.js, Docker, AI]**
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **[กำลังศึกษา Next.js, Docker, AI]**
 - 💬 สอบถามหรือพูดคุยกับผม/ฉันได้เรื่อง **[Python, C++]**
 - ⚡ งานอดิเรก: **[เช่น ฟังเพลง เตะบอล]**
 
